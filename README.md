@@ -9,4 +9,6 @@ ROADMAP: (Planned)
 
 Installation: Put the content of the folder "GameData" in your Gamedata Folder and youre done, enjoy!!
 
-DEPENDECIES
+DEPENDECIES: 
+Tundra Exploration (Falcon 9)
+Bluedog Design Bureau (Saturn V)
